@@ -1,0 +1,2 @@
+#¿Es posible escribir el programa del ejercicio 1.7 sin usar variables? Inténtalo.
+print("El resultado de la suuma de los tres numeros es ", float(input("Dame el primer número: "))+float(input("Dame el segundo número: "))+float(input("Dame el tercer número: ")))
